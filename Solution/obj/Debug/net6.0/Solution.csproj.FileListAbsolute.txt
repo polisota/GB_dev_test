@@ -1,0 +1,15 @@
+D:\GB_dev_test\Solution\bin\Debug\net6.0\Solution.exe
+D:\GB_dev_test\Solution\bin\Debug\net6.0\Solution.deps.json
+D:\GB_dev_test\Solution\bin\Debug\net6.0\Solution.runtimeconfig.json
+D:\GB_dev_test\Solution\bin\Debug\net6.0\Solution.dll
+D:\GB_dev_test\Solution\bin\Debug\net6.0\Solution.pdb
+D:\GB_dev_test\Solution\obj\Debug\net6.0\Solution.csproj.AssemblyReference.cache
+D:\GB_dev_test\Solution\obj\Debug\net6.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB_dev_test\Solution\obj\Debug\net6.0\Solution.AssemblyInfoInputs.cache
+D:\GB_dev_test\Solution\obj\Debug\net6.0\Solution.AssemblyInfo.cs
+D:\GB_dev_test\Solution\obj\Debug\net6.0\Solution.csproj.CoreCompileInputs.cache
+D:\GB_dev_test\Solution\obj\Debug\net6.0\Solution.dll
+D:\GB_dev_test\Solution\obj\Debug\net6.0\refint\Solution.dll
+D:\GB_dev_test\Solution\obj\Debug\net6.0\Solution.pdb
+D:\GB_dev_test\Solution\obj\Debug\net6.0\Solution.genruntimeconfig.cache
+D:\GB_dev_test\Solution\obj\Debug\net6.0\ref\Solution.dll
